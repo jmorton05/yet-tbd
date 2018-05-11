@@ -1,0 +1,20 @@
+---
+layout: post
+title: This Is It
+date: '2017-06-13 9:58:30 -0600'
+thumbnail: /assets/earth.jpg
+---
+
+Hello.<br>
+I have **grand** plans for this. But what it will really turn out to be is **yet to be determined**
+
+> I hope to have some interesting things to talk about.
+
+Have a great day. Peace.
+
+<figure>
+  <img src="{{ site.baseurl }}/assets/earth.jpg" alt="image">
+  <figcaption>
+        There is nothing on this earth more to be prized than true friendship.
+    </figcaption>
+</figure>
